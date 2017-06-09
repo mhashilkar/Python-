@@ -2,3 +2,5 @@
 
 x = int(input('What is your name? '))
 print('Hello',x)
+x = int(input('What is your name? '))
+print('Hello',x)
