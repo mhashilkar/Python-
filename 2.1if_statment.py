@@ -7,4 +7,4 @@ if tuna == "fish":
 
 tuna = "fish"
 if tuna == "fish": # IF THE STATMENT IS TRUE THE IT WILL PRINT THE STATMENT
-    print('allright')
+    print('this is a fish-allright',tuna)
